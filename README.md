@@ -22,7 +22,7 @@ const App = () => {
     <div>
     
       // Add - Default components //
-      <Slider interval={1000} images={['banner-1.jpg', 'banner-1.jpg', 'banner-1.jpg']}/>
+      <Slider interval={1000} buttonTextPrev="Prev" buttonTextNext="Next" images={['banner-1.jpg', 'banner-1.jpg', 'banner-1.jpg']}/>
       //----//
       
     </div>
