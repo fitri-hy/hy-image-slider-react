@@ -36,7 +36,7 @@ export default App;
 
 | Atribute | Key | Description | Status |
 |:--------------------------|:-----------|:-----------|:-----------|
-| `images={key?}`           |`['banner-1.jpg', 'banner-1.jpg', 'banner-1.jpg']` |Insert image                   |Required
+| `images={key?}`           |`['banner-1.jpg', 'banner-1.jpg', 'banner-1.jpg']` |Insert image (local/url)                   |Required
 | `interval={key?}`         |`500` `1000` `3000` etc...                         |Set interval time              |Required
 | `width={key?}`            |`600` `1000` `1500` etc...                         |Set width (px)                 |Optional
 | `height={key?}`           |`600` `1000` `1500` etc...                         |Set height (px)                |Optional
